@@ -1,0 +1,10 @@
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.csprojResolveAssemblyReference.cache
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.Form1.resources
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.Properties.Resources.resources
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.csproj.GenerateResource.Cache
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.exe
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.pdb
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\bin\WaterCompetition_HK.exe.config
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\bin\WaterCompetition_HK.exe
+c:\users\user_\documents\visual studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\bin\WaterCompetition_HK.pdb
+C:\Users\user_\Documents\Visual Studio 2015\Projects\WaterCompetition_HK\WaterCompetition_HK\obj\Debug\WaterCompetition_HK.Control.resources
